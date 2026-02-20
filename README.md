@@ -1,7 +1,7 @@
 # CognifyzTechnologies_L1_Task1
 Level 1 Task 1 – HTML &amp; CSS | Web Development Internship at Cognifyz Technologies
 
-Your site is live at https://niranjansurve.github.io/CognifyzTechnologies_L1_Task1/
+Your site is live at
 
 # Cognifyz Technologies – Level 1 Task 1
 
@@ -20,5 +20,5 @@ with a professional layout and clean code structure.
 - CSS3
 
 ## Author
-Niranjan Dipak Surve  
+Atharv Nitin Petkar
 Web Development Intern – Cognifyz Technologies
