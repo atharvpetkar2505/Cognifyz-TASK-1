@@ -1,0 +1,65 @@
+/* Reset & Base Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background-color: #f2f4f7;
+    color: #333;
+}
+
+/* Header */
+.header {
+    background-color: #0a2540;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.header h1 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+/* Main Content */
+.content {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.description p {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+
+/* Image Section */
+.image-section {
+    text-align: center;
+}
+
+.image-section img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 8px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    font-size: 13px;
+    padding: 20px;
+    color: #666;
+}
